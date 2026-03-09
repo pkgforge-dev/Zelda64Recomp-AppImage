@@ -1,10 +1,10 @@
 <div align="center">
 
-# Zelda64-Recompiled-AppImage 🐧
+# Zelda64Recomp-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Zelda64-Recompiled-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Zelda64-Recompiled-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/Zelda64-Recompiled-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Zelda64-Recompiled-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Zelda64-Recompiled-AppImage)](https://github.com/pkgforge-dev/Zelda64-Recompiled-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Zelda64Recomp-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Zelda64Recomp-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Zelda64Recomp-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Zelda64Recomp-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Zelda64Recomp-AppImage)](https://github.com/pkgforge-dev/Zelda64Recomp-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://github.com/Zelda64Recomp/Zelda64Recomp/blob/dev/icons/512.png" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Zelda64-Recompiled-AppImage/releases/latest) | [Click here](https://github.com/Zelda64Recomp/Zelda64Recomp) |
+| [Click here](https://github.com/pkgforge-dev/Zelda64Recomp-AppImage/releases/latest) | [Click here](https://github.com/Zelda64Recomp/Zelda64Recomp) |
 
 </div>
 
