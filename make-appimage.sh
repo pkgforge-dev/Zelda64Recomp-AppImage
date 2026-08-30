@@ -10,8 +10,6 @@ export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}
 export ICON=https://raw.githubusercontent.com/Zelda64Recomp/Zelda64Recomp/refs/heads/dev/icons/512.png
 export DESKTOP=https://raw.githubusercontent.com/Zelda64Recomp/Zelda64Recomp/refs/heads/dev/.github/linux/Zelda64Recompiled.desktop
 export STARTUPWMCLASS=Zelda64Recompiled
-export DEPLOY_GTK=1
-export GTK_DIR=gtk-3.0
 export DEPLOY_VULKAN=1
 
 # Deploy dependencies
